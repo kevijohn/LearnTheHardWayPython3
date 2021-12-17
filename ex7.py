@@ -18,7 +18,8 @@ end10 = "g"
 end11 = "e"
 end12 = "r"
 # watch end = ' ' at the end. try removing it to see what happens
-# Looks like end overrides the last character of the print statement.
+#
+# Looks like end= overrides the last character of the print statement.
 # Assuming the print function appends the python-specific carriage return new line character
 # to everything it prints.
 print(end1 + end2 + end3 + end4 + end5 + end6, end=' ')
