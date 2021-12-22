@@ -1,0 +1,46 @@
+Author: Kevin Johnson
+Created: DEC 22 2021
+
+print   Function to print strings to the terminal
+()      Encloses parameters passed to the preceeding named function
+""      Encloses a string of characters       
+'       Also encloses a string of characters
+\       Used to escape a special character (e.g. print quotation marks instead of closing a string) or substitute for a special system character (e.g. tab or new line)
+#       Starts a comment in the source code
++       Addition/concatenation operator
+*       Multiplication operator
+%       Modulo operator
+-       Subtraction operator
+<       Less than comparison operator
+>       Greater than comparison operator
+<=      Less than or equal to comparison operator
+>=      Greater than or equal to comparison operator
+,       Separator for parameters enclosed within parentheses
+=       Assignment operator
+{}      Encloses named string to be evaluated during format opration
+f       Shorthand for formatting string
+format  Function for formatting string
+end     Property used to override the end character that print function appends to the printed string
+True    Represents boolean value for true
+False   Represents boolean value for False
+\n      Escape character sequence for newline in a string passed to print function
+"""     Encloses multi-line string
+'''     Encloses multi-line string
+\t      Escape character sequence for tab in a string passed to print function
+\\      Escape character sequence for backslash in a string passed to print function
+input   Built-in python function to accept input from command line prompt while running a script 
+from    keyword used to refer to a module of functions
+sys     A specific module 
+import  Keyword used to specify functions to be imported from a package
+argv    "argument variable", refers to array of arguments passed via command line when python runs a script
+open    Function to open a file by creating a file object
+read    Function to read an entire file
+close   Function to close a file object
+truncate    Function to clear contents of a file
+write   Function to write to a file
+len     Function to get length of a file in bytes
+exists  Function to test if a file exists (or not)
+def     Keyword used to define a user-written function
+:       Used when defining a function, placed between function signature and statements of the function
+seek    Function for setting position of file handle
+readline    Function to read file until first next newline character is found
