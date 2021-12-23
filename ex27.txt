@@ -1,0 +1,5 @@
+Author: Kevin Johnson
+Created: DEC 23 2021
+
+This exercise is about memorizing truth tables.
+There is no runnable code. 
